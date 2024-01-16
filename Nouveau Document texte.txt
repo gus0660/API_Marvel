@@ -1,0 +1,11 @@
+Your public key
+           bdd8927cc325728869e4e301c9b2592c
+
+
+
+Your private key
+           00eaffda5ead00762bfbfd736092ea44ae79053d
+
+
+
+hash en md5 pour api marvel : fa57ecb68368db4b9a073022eb1020b1
